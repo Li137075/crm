@@ -20,8 +20,8 @@ http://www.springframework.org/schema/aop/spring-aop.xsd">
 
 
     <!-- 扫描注解 -->
-    <context:component-scan base-package="com.bjpowernode.crm.settings.service.impl" />
-    <context:component-scan base-package="com.bjpowernode.crm.workbench.service.impl" />
+    <context:component-scan base-package="com.lc.crm.settings.service.impl" />
+    <context:component-scan base-package="com.lc.crm.workbench.service.impl" />
 
 
     <!-- 导入数据相关配置 -->
